@@ -1,0 +1,201 @@
+customerID,antiguedad_meses,tipo_contrato,gasto_mensual,gasto_total,producto_principal,llamadas_soporte,churn
+1,1,Mensual,29.85,29.85,Fibra,1,Si
+2,34,Anual,56.95,1889.5,Movil,1,No
+3,2,Mensual,53.85,108.15,Fibra,4,Si
+4,45,Anual,42.3,1840.75,Fibra,1,No
+5,2,Mensual,70.7,151.65,Fibra+Movil,0,Si
+6,8,Mensual,99.65,820.5,Fibra+Movil,2,Si
+7,22,Anual,89.1,1949.4,Fibra,0,No
+8,10,Mensual,29.75,301.9,Movil,0,No
+9,62,Dos años,56.15,3487.95,Movil,0,No
+10,13,Mensual,99.95,1336.9,Fibra+Movil,1,Si
+11,16,Mensual,18.95,326.8,Movil,0,No
+12,58,Anual,100.35,5931.35,Fibra+Movil,1,No
+13,49,Anual,103.7,5036.3,Fibra+Movil,0,No
+14,25,Mensual,105.5,2686.05,Fibra+Movil,0,No
+15,69,Anual,113.25,7895.15,Fibra+Movil,0,No
+16,52,Anual,20.65,1022.95,Movil,0,No
+17,71,Dos años,106.7,7362.9,Fibra+Movil,0,No
+18,10,Mensual,55.2,528.35,Fibra,0,Si
+19,21,Mensual,19.8,401.4,Movil,0,No
+20,1,Mensual,20.15,20.15,Movil,0,Si
+21,47,Anual,79.85,3723.25,Fibra,0,No
+22,1,Mensual,20.05,20.05,Movil,0,Si
+23,58,Dos años,59.9,3505.9,Movil,1,No
+24,49,Mensual,59.6,2970.3,Fibra,1,No
+25,30,Mensual,59.3,1844.75,Fibra,3,Si
+26,46,Anual,49.95,2297.8,Fibra,0,No
+27,11,Mensual,30.5,343.3,Fibra,2,Si
+28,72,Dos años,109.55,7880.35,Fibra+Movil,0,No
+29,17,Mensual,64.7,1093.1,Fibra,2,Si
+30,4,Mensual,45.3,163.1,Fibra,2,Si
+31,7,Mensual,74.9,534.9,Fibra+Movil,0,No
+32,66,Dos años,108.5,7131.65,Fibra+Movil,0,No
+33,1,Mensual,24.8,24.8,Movil,0,Si
+34,65,Dos años,115.65,7442.4,Fibra+Movil,0,No
+35,53,Anual,89.5,4749.3,Fibra,0,No
+36,1,Mensual,25.4,25.4,Movil,0,Si
+37,2,Mensual,25.1,55.1,Movil,1,No
+38,15,Mensual,35.5,528.35,Movil,0,No
+39,3,Mensual,99.45,310.6,Fibra+Movil,3,Si
+40,26,Mensual,30.3,790.3,Fibra,0,No
+41,70,Anual,107.65,7465.3,Fibra+Movil,0,No
+42,1,Mensual,19.2,19.2,Movil,0,Si
+43,27,Anual,90.25,2496.7,Fibra,1,No
+44,60,Dos años,49.2,2896.2,Fibra,0,No
+45,1,Mensual,39.65,39.65,Fibra,0,Si
+46,68,Dos años,110.6,7449.4,Fibra+Movil,0,No
+47,2,Mensual,79.8,163.9,Fibra+Movil,1,No
+48,5,Mensual,94.8,491.5,Fibra+Movil,0,No
+49,12,Mensual,20.35,224.7,Movil,1,No
+50,60,Dos años,111.4,6658.25,Fibra+Movil,0,No
+51,2,Mensual,25.3,55.3,Movil,3,Si
+52,59,Anual,109.95,6496.4,Fibra+Movil,0,No
+53,1,Mensual,70.6,70.6,Fibra+Movil,0,Si
+54,23,Mensual,45.3,962.3,Fibra,1,No
+55,67,Dos años,25.1,1684.3,Movil,0,No
+56,35,Anual,104.25,3561.1,Fibra+Movil,0,No
+57,3,Mensual,80.85,249.95,Fibra+Movil,1,Si
+58,48,Dos años,94.7,4537.9,Fibra+Movil,0,No
+59,1,Mensual,20.55,20.55,Movil,0,Si
+60,19,Mensual,105.4,2046.05,Fibra+Movil,3,Si
+61,24,Mensual,25.55,635.8,Movil,1,No
+62,44,Anual,102.15,4450.45,Fibra+Movil,0,No
+63,1,Mensual,34.7,34.7,Fibra,0,Si
+64,55,Anual,106.8,5982.8,Fibra+Movil,0,No
+65,1,Mensual,19.9,19.9,Movil,0,Si
+66,72,Dos años,114.7,8234.3,Fibra+Movil,0,No
+67,13,Mensual,79.85,1022.3,Fibra,0,No
+68,1,Mensual,20.2,20.2,Movil,0,No
+69,1,Mensual,39.2,39.2,Fibra,1,Si
+70,3,Mensual,75.1,270.7,Fibra+Movil,0,No
+71,1,Mensual,19.7,19.7,Movil,0,No
+72,50,Dos años,105.2,5411.3,Fibra+Movil,0,No
+73,42,Anual,94.2,3930.4,Fibra+Movil,0,No
+74,1,Mensual,24.1,24.1,Movil,0,Si
+75,72,Dos años,115.5,8338.45,Fibra+Movil,0,No
+76,29,Mensual,45.0,1256.8,Fibra,1,No
+77,18,Mensual,99.1,1862.95,Fibra+Movil,0,No
+78,1,Mensual,19.85,19.85,Movil,0,Si
+79,56,Anual,105.8,5915.2,Fibra+Movil,0,No
+80,2,Mensual,39.55,85.5,Fibra,0,Si
+81,7,Mensual,94.35,633.9,Fibra+Movil,0,Si
+82,72,Dos años,117.8,8424.9,Fibra+Movil,0,No
+83,1,Mensual,19.65,19.65,Movil,0,No
+84,40,Anual,100.8,4044.1,Fibra+Movil,0,No
+85,1,Mensual,24.5,24.5,Movil,1,Si
+86,2,Mensual,30.5,63.55,Fibra,0,No
+87,22,Anual,20.45,462.65,Movil,0,No
+88,1,Mensual,30.2,30.2,Fibra,0,Si
+89,48,Anual,109.2,5251.05,Fibra+Movil,0,No
+90,12,Mensual,99.8,1237.85,Fibra+Movil,4,Si
+91,60,Dos años,30.2,1743.5,Fibra,0,No
+92,1,Mensual,25.2,25.2,Movil,0,Si
+93,33,Anual,95.2,3160.2,Fibra+Movil,0,No
+94,2,Mensual,24.8,45.3,Movil,2,Si
+95,58,Dos años,110.8,6385.4,Fibra+Movil,0,No
+96,1,Mensual,19.75,19.75,Movil,0,Si
+97,72,Dos años,25.7,1825.2,Movil,0,No
+98,10,Mensual,89.2,918.2,Fibra,0,Si
+99,1,Mensual,44.2,44.2,Fibra,0,Si
+100,24,Anual,107.5,2601.6,Fibra+Movil,0,No
+101,3,Mensual,74.4,229.55,Fibra+Movil,0,Si
+102,1,Mensual,25.75,25.75,Movil,0,Si
+103,15,Mensual,100.8,1543.55,Fibra+Movil,3,Si
+104,72,Dos años,116.6,8462.45,Fibra+Movil,0,No
+105,54,Dos años,110.15,5971.4,Fibra+Movil,1,No
+106,1,Mensual,20.95,20.95,Movil,0,Si
+107,46,Dos años,110.8,4941.9,Fibra+Movil,0,No
+108,1,Mensual,20.2,20.2,Movil,0,Si
+109,72,Dos años,19.2,1397.4,Movil,0,No
+110,61,Anual,108.05,6493.3,Fibra+Movil,0,No
+111,1,Mensual,30.9,30.9,Fibra,0,Si
+112,8,Mensual,104.8,859.1,Fibra+Movil,1,Si
+113,72,Dos años,118.6,8405,Fibra+Movil,0,No
+114,1,Mensual,23.6,23.6,Movil,0,Si
+115,2,Mensual,94.8,189.2,Fibra+Movil,0,Si
+116,35,Anual,40.15,1427.6,Fibra,0,No
+117,72,Dos años,118.75,8672.45,Fibra+Movil,0,No
+118,1,Mensual,25.1,25.1,Movil,0,Si
+119,43,Anual,104.05,4528.8,Fibra+Movil,0,No
+120,1,Mensual,24.2,24.2,Movil,0,Si
+121,66,Dos años,111.3,7283.45,Fibra+Movil,0,No
+122,2,Mensual,89.5,194.8,Fibra,0,No
+123,5,Mensual,100.8,516.75,Fibra+Movil,0,No
+124,1,Mensual,25.0,25.0,Movil,0,Si
+125,72,Dos años,117.5,8529.5,Fibra+Movil,0,No
+126,1,Mensual,20.5,20.5,Movil,0,No
+127,13,Mensual,104.05,1397.45,Fibra+Movil,3,Si
+128,1,Mensual,20.45,20.45,Movil,0,Si
+129,64,Dos años,111.8,7192.15,Fibra+Movil,0,No
+130,2,Mensual,24.3,46.1,Movil,0,No
+131,1,Mensual,39.1,39.1,Fibra,1,Si
+132,1,Mensual,69.9,69.9,Fibra+Movil,2,Si
+133,68,Anual,107.5,7334.3,Fibra+Movil,0,No
+134,1,Mensual,20.85,20.85,Movil,0,No
+135,10,Mensual,99.55,991.45,Fibra+Movil,0,No
+136,1,Mensual,20.4,20.4,Movil,0,Si
+137,72,Dos años,115.4,8216.05,Fibra+Movil,0,No
+138,4,Mensual,90.25,373.9,Fibra,0,Si
+139,1,Mensual,30.3,30.3,Fibra,0,No
+140,1,Mensual,24.9,24.9,Movil,0,Si
+141,6,Mensual,75.7,460.85,Fibra+Movil,1,Si
+142,72,Dos años,114.9,8259.8,Fibra+Movil,0,No
+143,1,Mensual,20.65,20.65,Movil,0,No
+144,1,Mensual,35.35,35.35,Fibra,1,Si
+145,1,Mensual,20.1,20.1,Movil,0,No
+146,72,Dos años,117.6,8372.4,Fibra+Movil,0,No
+147,1,Mensual,24.4,24.4,Movil,0,Si
+148,2,Mensual,84.95,144.9,Fibra,1,No
+149,4,Mensual,100.95,389.35,Fibra+Movil,1,Si
+150,68,Dos años,116.75,7819.3,Fibra+Movil,0,No
+151,1,Mensual,25.6,25.6,Movil,0,Si
+152,72,Dos años,20.75,1494.3,Movil,0,No
+153,1,Mensual,34.8,34.8,Fibra,0,Si
+154,72,Dos años,115.85,8496.7,Fibra+Movil,0,No
+155,5,Mensual,95.55,475.9,Fibra+Movil,1,Si
+156,23,Anual,106.65,2520.65,Fibra+Movil,0,No
+157,1,Mensual,25.25,25.25,Movil,0,Si
+158,72,Dos años,20.3,1463,Movil,0,No
+159,1,Mensual,35.0,35.0,Fibra,0,Si
+160,20,Mensual,106.8,2058.1,Fibra+Movil,3,Si
+161,70,Dos años,115.9,8082.35,Fibra+Movil,0,No
+162,1,Mensual,20.9,20.9,Movil,0,Si
+163,5,Mensual,74.95,379.3,Fibra,0,No
+164,1,Mensual,24.55,24.55,Movil,0,Si
+165,72,Dos años,116.4,8564.4,Fibra+Movil,0,No
+166,1,Mensual,19.5,19.5,Movil,0,No
+167,4,Mensual,96.2,357.2,Fibra+Movil,0,No
+168,1,Mensual,29.6,29.6,Fibra,0,Si
+169,18,Anual,104.2,1941.7,Fibra+Movil,0,No
+170,1,Mensual,20.7,20.7,Movil,0,Si
+171,43,Anual,109.2,4802.8,Fibra+Movil,0,No
+172,1,Mensual,25.4,25.4,Movil,0,Si
+173,72,Dos años,114.5,8304.7,Fibra+Movil,0,No
+174,1,Mensual,30.4,30.4,Fibra,0,Si
+175,13,Mensual,95.6,1226.4,Fibra+Movil,2,Si
+176,1,Mensual,19.3,19.3,Movil,0,Si
+177,66,Anual,108.6,7071.7,Fibra+Movil,0,No
+178,1,Mensual,20.35,20.35,Movil,0,Si
+179,72,Dos años,115.35,8453.65,Fibra+Movil,0,No
+180,1,Mensual,24.7,24.7,Movil,0,Si
+181,2,Mensual,29.9,64.25,Fibra,0,No
+182,1,Mensual,34.4,34.4,Fibra,0,No
+183,1,Mensual,70.2,70.2,Fibra+Movil,1,Si
+184,72,Dos años,114.95,8397.6,Fibra+Movil,0,No
+185,1,Mensual,25.05,25.05,Movil,0,Si
+186,1,Mensual,19.4,19.4,Movil,0,Si
+187,72,Dos años,25.1,1779.2,Movil,0,No
+188,1,Mensual,35.1,35.1,Fibra,0,Si
+189,1,Mensual,24.7,24.7,Movil,0,Si
+190,47,Anual,109.1,5149.9,Fibra+Movil,0,No
+191,1,Mensual,20.6,20.6,Movil,0,No
+192,2,Mensual,99.85,203.6,Fibra+Movil,2,Si
+193,1,Mensual,24.45,24.45,Movil,0,No
+194,72,Dos años,116.5,8272.2,Fibra+Movil,0,No
+195,1,Mensual,25.5,25.5,Movil,0,Si
+196,1,Mensual,19.95,19.95,Movil,0,Si
+197,3,Mensual,85.1,234.1,Fibra,0,Si
+198,72,Dos años,24.8,1742.8,Movil,0,No
+199,1,Mensual,29.9,29.9,Fibra,0,Si
+200,1,Mensual,20.25,20.25,Movil,0,Si
